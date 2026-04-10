@@ -1,0 +1,3 @@
+@"
+*.exe
+"@ | Out-File -Encoding ascii .gitignore
